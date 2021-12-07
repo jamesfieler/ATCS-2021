@@ -1,0 +1,49 @@
+Aggregation Grouping Suggested by U.S.Bureau of Labor Statistics
+(SOC_CODE Structure.pdf)
+Note: Leave last 2 line EMPTY
+
+HIGH:
+11-29 Management, Business, Science, and Arts Occupations
+31-39 Service Occupations
+41-43 Sales and Office Occupations
+45-49 Natural Resources, Construction, and Maintenance Occupations
+51-53 Production, Transportation, and Material Moving Occupations
+
+INTERMEDIATE:
+11-13 Management, Business, and Financial Occupations
+14-19 Computer, Engineering, and Science Occupations
+21-27 Education, Legal, Community Service, Arts, and Media Occupations
+29 Healthcare Practitionersand Technical Occupations
+31-39 Service Occupations
+41 Sales and Related Occupations
+43 Office and Administrative Support Occupations
+45 Farming, Fishing, and Forestry Occupations
+47 Construction and Extraction Occupations
+49 Installation, Maintenance, and Repair Occupations
+51 Production Occupations
+53 Transportation and Material Moving Occupations
+
+MAJOR:
+11 Management Occupations
+13 Business and Financial Operations Occupations
+15 Computer and Mathematical Occupations
+17 Architecture and Engineering Occupations
+19 Life, Physical, and Social Science Occupations
+21 Community and Social Service Occupations
+23 Legal Occupations
+25 Educational Instruction and Library Occupations
+27 Arts, Design, Entertainment, Sports, and Media Occupations
+29 Healthcare Practitioners and Technical Occupations
+31 Healthcare Support Occupations
+33 Protective Service Occupations
+35 Food Preparation and Serving Related Occupations
+37 Building and Grounds Cleaning and Maintenance Occupations
+39 Personal Care and Service Occupations
+41 Sales and Related Occupations
+43 Office and Administrative Support Occupations
+45 Farming, Fishing, and Forestry Occupations
+47 Construction and Extraction Occupations
+49 Installation, Maintenance, and Repair Occupations
+51 Production Occupations
+53 Transportation and Material Moving Occupations
+

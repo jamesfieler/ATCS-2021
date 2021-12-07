@@ -1,0 +1,1330 @@
+SOC_CODE,OCC_TITLE,A_MEAN
+0,All Occupations,56310
+110000,Management Occupations,126480
+111000,Top Executives,129920
+111010,Chief Executives,197840
+111011,Chief Executives,197840
+111020,General and Operations Managers,125740
+111021,General and Operations Managers,125740
+111030,Legislators,53560
+111031,Legislators,53560
+112000,"Advertising, Marketing, Promotions, Public Relations, and Sales Managers",148740
+112010,Advertising and Promotions Managers,147560
+112011,Advertising and Promotions Managers,147560
+112020,Marketing and Sales Managers,150400
+112021,Marketing Managers,154470
+112022,Sales Managers,147580
+112030,Public Relations and Fundraising Managers,135580
+112030,Public Relations and Fundraising Managers,135580
+113000,Operations Specialties Managers,138590
+113010,Administrative Services and Facilities Managers,108120
+113010,Administrative Services and Facilities Managers,108120
+113020,Computer and Information Systems Managers,161730
+113021,Computer and Information Systems Managers,161730
+113030,Financial Managers,151510
+113031,Financial Managers,151510
+113050,Industrial Production Managers,118190
+113051,Industrial Production Managers,118190
+113060,Purchasing Managers,132660
+113061,Purchasing Managers,132660
+113070,"Transportation, Storage, and Distribution Managers",105100
+113071,"Transportation, Storage, and Distribution Managers",105100
+113110,Compensation and Benefits Managers,137160
+113111,Compensation and Benefits Managers,137160
+113120,Human Resources Managers,134580
+113121,Human Resources Managers,134580
+113130,Training and Development Managers,125920
+113131,Training and Development Managers,125920
+119000,Other Management Occupations,106910
+119010,"Farmers, Ranchers, and Other Agricultural Managers",76810
+119013,"Farmers, Ranchers, and Other Agricultural Managers",76810
+119020,Construction Managers,107260
+119021,Construction Managers,107260
+119030,Education and Childcare Administrators,101160
+119031,"Education and Childcare Administrators, Preschool and Daycare",54940
+119032,"Education Administrators, Kindergarten through Secondary",103010
+119033,"Education Administrators, Postsecondary",115200
+119039,"Education Administrators, All Other",93830
+119040,Architectural and Engineering Managers,158100
+119041,Architectural and Engineering Managers,158100
+119050,Food Service Managers,61000
+119051,Food Service Managers,61000
+119071,Gambling Managers,85440
+119080,Lodging Managers,65270
+119081,Lodging Managers,65270
+119110,Medical and Health Services Managers,118800
+119111,Medical and Health Services Managers,118800
+119120,Natural Sciences Managers,154930
+119121,Natural Sciences Managers,154930
+119130,Postmasters and Mail Superintendents,79660
+119131,Postmasters and Mail Superintendents,79660
+119140,"Property, Real Estate, and Community Association Managers",73210
+119141,"Property, Real Estate, and Community Association Managers",73210
+119150,Social and Community Service Managers,75140
+119151,Social and Community Service Managers,75140
+119160,Emergency Management Directors,84310
+119161,Emergency Management Directors,84310
+119171,Funeral Home Managers,91530
+119198,"Personal Service Managers, All Other; Entertainment and Recreation Managers, Except Gambling; and Managers, All Other",123980
+130000,Business and Financial Operations Occupations,80680
+131000,Business Operations Specialists,78320
+131010,"Agents and Business Managers of Artists, Performers, and Athletes",98070
+131011,"Agents and Business Managers of Artists, Performers, and Athletes",98070
+131020,Buyers and Purchasing Agents,72370
+131020,Buyers and Purchasing Agents,72370
+131030,"Claims Adjusters, Appraisers, Examiners, and Investigators",70560
+131031,"Claims Adjusters, Examiners, and Investigators",70650
+131032,"Insurance Appraisers, Auto Damage",68540
+131040,Compliance Officers,75620
+131041,Compliance Officers,75620
+131050,Cost Estimators,72960
+131051,Cost Estimators,72960
+131070,Human Resources Workers,69950
+131071,Human Resources Specialists,69430
+131074,Farm Labor Contractors,50300
+131075,Labor Relations Specialists,74870
+131081,Logisticians,79830
+131110,Management Analysts,97580
+131111,Management Analysts,97580
+131120,"Meeting, Convention, and Event Planners",55890
+131121,"Meeting, Convention, and Event Planners",55890
+131130,Fundraisers,64550
+131131,Fundraisers,64550
+131140,"Compensation, Benefits, and Job Analysis Specialists",72610
+131141,"Compensation, Benefits, and Job Analysis Specialists",72610
+131150,Training and Development Specialists,67440
+131151,Training and Development Specialists,67440
+131160,Market Research Analysts and Marketing Specialists,73970
+131161,Market Research Analysts and Marketing Specialists,73970
+131198,"Project Management Specialists and Business Operations Specialists, All Other",84290
+132000,Financial Specialists,85510
+132010,Accountants and Auditors,81660
+132011,Accountants and Auditors,81660
+132020,Property Appraisers and Assessors,65630
+132020,Property Appraisers and Assessors,65630
+132030,Budget Analysts,82690
+132031,Budget Analysts,82690
+132040,Credit Analysts,86170
+132041,Credit Analysts,86170
+132052,Personal Financial Advisors,122490
+132053,Insurance Underwriters,80390
+132060,Financial Examiners,92730
+132061,Financial Examiners,92730
+132070,Credit Counselors and Loan Officers,74490
+132071,Credit Counselors,49940
+132072,Loan Officers,76930
+132080,"Tax Examiners, Collectors and Preparers, and Revenue Agents",57000
+132081,"Tax Examiners and Collectors, and Revenue Agents",62040
+132082,Tax Preparers,52710
+132098,"Financial and Investment Analysts, Financial Risk Specialists, and Financial Specialists, All Other",96630
+150000,Computer and Mathematical Occupations,96770
+151200,Computer Occupations,96630
+151210,Computer and Information Analysts,100680
+151211,Computer Systems Analysts,99020
+151212,Information Security Analysts,107580
+151220,Computer and Information Research Scientists,130890
+151221,Computer and Information Research Scientists,130890
+151230,Computer Support Specialists,60160
+151231,Computer Network Support Specialists,71040
+151232,Computer User Support Specialists,57000
+151240,Database and Network Administrators and Architects,99420
+151241,Computer Network Architects,119230
+151244,Network and Computer Systems Administrators,89460
+151245,Database Administrators and Architects,101090
+151250,"Software and Web Developers, Programmers, and Testers",109950
+151251,Computer Programmers,95640
+151256,Software Developers and Software Quality Assurance Analysts and Testers,114270
+151257,Web Developers and Digital Interface Designers,85490
+151290,Miscellaneous Computer Occupations,96740
+151299,"Computer Occupations, All Other",96740
+152000,Mathematical Science Occupations,99700
+152010,Actuaries,123180
+152011,Actuaries,123180
+152020,Mathematicians,112530
+152021,Mathematicians,112530
+152030,Operations Research Analysts,92280
+152031,Operations Research Analysts,92280
+152040,Statisticians,97170
+152041,Statisticians,97170
+152098,"Data Scientists and Mathematical Science Occupations, All Other",103930
+170000,Architecture and Engineering Occupations,90300
+171000,"Architects, Surveyors, and Cartographers",82030
+171010,"Architects, Except Naval",87130
+171011,"Architects, Except Landscape and Naval",89470
+171012,Landscape Architects,75440
+171020,"Surveyors, Cartographers, and Photogrammetrists",70740
+171021,Cartographers and Photogrammetrists,72420
+171022,Surveyors,70260
+172000,Engineers,102500
+172010,Aerospace Engineers,121110
+172011,Aerospace Engineers,121110
+172020,Agricultural Engineers,101620
+172021,Agricultural Engineers,101620
+172030,Bioengineers and Biomedical Engineers,98340
+172031,Bioengineers and Biomedical Engineers,98340
+172040,Chemical Engineers,114820
+172041,Chemical Engineers,114820
+172050,Civil Engineers,95440
+172051,Civil Engineers,95440
+172060,Computer Hardware Engineers,126140
+172061,Computer Hardware Engineers,126140
+172070,Electrical and Electronics Engineers,108510
+172071,Electrical Engineers,105990
+172072,"Electronics Engineers, Except Computer",112320
+172080,Environmental Engineers,96890
+172081,Environmental Engineers,96890
+172110,"Industrial Engineers, Including Health and Safety",93890
+172111,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",97330
+172112,Industrial Engineers,93610
+172120,Marine Engineers and Naval Architects,99590
+172121,Marine Engineers and Naval Architects,99590
+172130,Materials Engineers,100550
+172131,Materials Engineers,100550
+172140,Mechanical Engineers,95560
+172141,Mechanical Engineers,95560
+172150,"Mining and Geological Engineers, Including Mining Safety Engineers",100140
+172151,"Mining and Geological Engineers, Including Mining Safety Engineers",100140
+172160,Nuclear Engineers,125130
+172161,Nuclear Engineers,125130
+172170,Petroleum Engineers,154330
+172171,Petroleum Engineers,154330
+172190,Miscellaneous Engineers,107060
+172199,"Engineers, All Other",107060
+173000,"Drafters, Engineering Technicians, and Mapping Technicians",61660
+173010,Drafters,60390
+173011,Architectural and Civil Drafters,59120
+173012,Electrical and Electronics Drafters,65720
+173013,Mechanical Drafters,61490
+173019,"Drafters, All Other",56530
+173020,"Engineering Technologists and Technicians, Except Drafters",63740
+173021,Aerospace Engineering and Operations Technologists and Technicians,70680
+173022,Civil Engineering Technologists and Technicians,56590
+173023,Electrical and Electronic Engineering Technologists and Technicians,68310
+173024,Electro-Mechanical and Mechatronics Technologists and Technicians,62800
+173025,Environmental Engineering Technologists and Technicians,56570
+173026,Industrial Engineering Technologists and Technicians,59920
+173027,Mechanical Engineering Technologists and Technicians,60880
+173030,Surveying and Mapping Technicians,49770
+173031,Surveying and Mapping Technicians,49770
+173098,"Calibration Technologists and Technicians and Engineering Technologists and Technicians, Except Drafters, All Other",67640
+190000,"Life, Physical, and Social Science Occupations",79360
+191000,Life Scientists,91710
+191010,Agricultural and Food Scientists,76320
+191011,Animal Scientists,74540
+191012,Food Scientists and Technologists,80190
+191013,Soil and Plant Scientists,73040
+191020,Biological Scientists,91550
+191021,Biochemists and Biophysicists,104810
+191022,Microbiologists,91840
+191023,Zoologists and Wildlife Biologists,70510
+191029,"Biological Scientists, All Other",89910
+191030,Conservation Scientists and Foresters,68120
+191031,Conservation Scientists,69020
+191032,Foresters,66000
+191040,Medical Scientists,100780
+191041,Epidemiologists,83620
+191042,"Medical Scientists, Except Epidemiologists",101800
+191090,Miscellaneous Life Scientists,92170
+191099,"Life Scientists, All Other",92170
+192000,Physical Scientists,93560
+192010,Astronomers and Physicists,136480
+192011,Astronomers,126250
+192012,Physicists,137700
+192020,Atmospheric and Space Scientists,100550
+192021,Atmospheric and Space Scientists,100550
+192030,Chemists and Materials Scientists,87800
+192031,Chemists,86410
+192032,Materials Scientists,104450
+192040,Environmental Scientists and Geoscientists,88140
+192041,"Environmental Scientists and Specialists, Including Health",80090
+192042,"Geoscientists, Except Hydrologists and Geographers",112110
+192043,Hydrologists,90150
+192090,Miscellaneous Physical Scientists,110100
+192099,"Physical Scientists, All Other",110100
+193000,Social Scientists and Related Workers,90150
+193010,Economists,120880
+193011,Economists,120880
+193020,Survey Researchers,66960
+193022,Survey Researchers,66960
+193030,Psychologists,90710
+193031,"Clinical, Counseling, and School Psychologists",89290
+193032,Industrial-Organizational Psychologists,112690
+193039,"Psychologists, All Other",100130
+193040,Sociologists,93420
+193041,Sociologists,93420
+193050,Urban and Regional Planners,79410
+193051,Urban and Regional Planners,79410
+193090,Miscellaneous Social Scientists and Related Workers,90750
+193091,Anthropologists and Archeologists,69960
+193092,Geographers,85620
+193093,Historians,68400
+193094,Political Scientists,124100
+193099,"Social Scientists and Related Workers, All Other",91280
+194000,"Life, Physical, and Social Science Technicians",53010
+194010,Agricultural and Food Science Technicians,45920
+194010,Agricultural and Food Science Technicians,45920
+194020,Biological Technicians,49490
+194021,Biological Technicians,49490
+194030,Chemical Technicians,53700
+194031,Chemical Technicians,53700
+194040,Environmental Science and Geoscience Technicians,54300
+194042,"Environmental Science and Protection Technicians, Including Health",50960
+194045,Geological and Hydrologic Technicians,61130
+194050,Nuclear Technicians,83810
+194051,Nuclear Technicians,83810
+194060,Social Science Research Assistants,53560
+194061,Social Science Research Assistants,53560
+194070,Forest and Conservation Technicians,42780
+194071,Forest and Conservation Technicians,42780
+194090,"Miscellaneous Life, Physical, and Social Science Technicians",58530
+194092,Forensic Science Technicians,64890
+194099,"Life, Physical, and Social Science Technicians, All Other",56830
+195000,Occupational Health and Safety Specialists and Technicians,74480
+195010,Occupational Health and Safety Specialists and Technicians,74480
+195011,Occupational Health and Safety Specialists,78110
+195012,Occupational Health and Safety Technicians,57870
+210000,Community and Social Service Occupations,52180
+211000,"Counselors, Social Workers, and Other Community and Social Service Specialists",52120
+211010,Counselors,54780
+211012,"Educational, Guidance, and Career Counselors and Advisors",62320
+211013,Marriage and Family Therapists,56890
+211015,Rehabilitation Counselors,42080
+211018,"Substance Abuse, Behavioral Disorder, and Mental Health Counselors",51550
+211019,"Counselors, All Other",50800
+211020,Social Workers,55950
+211021,"Child, Family, and School Social Workers",52370
+211022,Healthcare Social Workers,60470
+211023,Mental Health and Substance Abuse Social Workers,54540
+211029,"Social Workers, All Other",64940
+211090,Miscellaneous Community and Social Service Specialists,45390
+211091,Health Education Specialists,62120
+211092,Probation Officers and Correctional Treatment Specialists,61900
+211093,Social and Human Service Assistants,38230
+211094,Community Health Workers,46000
+211099,"Community and Social Service Specialists, All Other",49600
+212000,Religious Workers,53790
+212010,Clergy,56560
+212011,Clergy,56560
+212020,"Directors, Religious Activities and Education",52660
+212021,"Directors, Religious Activities and Education",52660
+212090,Miscellaneous Religious Workers,40070
+212099,"Religious Workers, All Other",40070
+230000,Legal Occupations,112320
+231000,"Lawyers, Judges, and Related Workers",144970
+231010,Lawyers and Judicial Law Clerks,147050
+231011,Lawyers,148910
+231012,Judicial Law Clerks,63860
+231020,"Judges, Magistrates, and Other Judicial Workers",116390
+231021,"Administrative Law Judges, Adjudicators, and Hearing Officers",102050
+231022,"Arbitrators, Mediators, and Conciliators",76440
+231023,"Judges, Magistrate Judges, and Magistrates",131850
+232000,Legal Support Workers,57890
+232010,Paralegals and Legal Assistants,56610
+232011,Paralegals and Legal Assistants,56610
+232090,Miscellaneous Legal Support Workers,62150
+232093,"Title Examiners, Abstractors, and Searchers",52950
+232099,"Legal Support Workers, All Other",73320
+250000,Educational Instruction and Library Occupations,59810
+251000,Postsecondary Teachers,93330
+251010,"Business Teachers, Postsecondary",107270
+251011,"Business Teachers, Postsecondary",107270
+251020,"Math and Computer Science Teachers, Postsecondary",91450
+251021,"Computer Science Teachers, Postsecondary",98680
+251022,"Mathematical Science Teachers, Postsecondary",86760
+251030,"Engineering and Architecture Teachers, Postsecondary",112110
+251031,"Architecture Teachers, Postsecondary",100820
+251032,"Engineering Teachers, Postsecondary",114130
+251040,"Life Sciences Teachers, Postsecondary",100400
+251041,"Agricultural Sciences Teachers, Postsecondary",96200
+251042,"Biological Science Teachers, Postsecondary",101320
+251043,"Forestry and Conservation Science Teachers, Postsecondary",92420
+251050,"Physical Sciences Teachers, Postsecondary",98580
+251051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",104710
+251052,"Chemistry Teachers, Postsecondary",94630
+251053,"Environmental Science Teachers, Postsecondary",94520
+251054,"Physics Teachers, Postsecondary",101290
+251060,"Social Sciences Teachers, Postsecondary",94270
+251061,"Anthropology and Archeology Teachers, Postsecondary",98740
+251062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",88790
+251063,"Economics Teachers, Postsecondary",123720
+251064,"Geography Teachers, Postsecondary",87160
+251065,"Political Science Teachers, Postsecondary",100970
+251066,"Psychology Teachers, Postsecondary",89960
+251067,"Sociology Teachers, Postsecondary",85180
+251069,"Social Sciences Teachers, Postsecondary, All Other",85670
+251070,"Health Teachers, Postsecondary",115330
+251071,"Health Specialties Teachers, Postsecondary",124890
+251072,"Nursing Instructors and Teachers, Postsecondary",84060
+251080,"Education and Library Science Teachers, Postsecondary",75180
+251081,"Education Teachers, Postsecondary",75010
+251082,"Library Science Teachers, Postsecondary",77560
+251110,"Law, Criminal Justice, and Social Work Teachers, Postsecondary",96870
+251111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",74740
+251112,"Law Teachers, Postsecondary",134760
+251113,"Social Work Teachers, Postsecondary",78110
+251120,"Arts, Communications, History, and Humanities Teachers, Postsecondary",83620
+251121,"Art, Drama, and Music Teachers, Postsecondary",84780
+251122,"Communications Teachers, Postsecondary",80940
+251123,"English Language and Literature Teachers, Postsecondary",81340
+251124,"Foreign Language and Literature Teachers, Postsecondary",80410
+251125,"History Teachers, Postsecondary",85630
+251126,"Philosophy and Religion Teachers, Postsecondary",90160
+251190,Miscellaneous Postsecondary Teachers,77650
+251192,"Family and Consumer Sciences Teachers, Postsecondary",81580
+251193,"Recreation and Fitness Studies Teachers, Postsecondary",75430
+251194,"Career/Technical Education Teachers, Postsecondary",61710
+251199,"Postsecondary Teachers, All Other",86430
+252000,"Preschool, Elementary, Middle, Secondary, and Special Education Teachers",63100
+252010,Preschool and Kindergarten Teachers,42570
+252011,"Preschool Teachers, Except Special Education",36550
+252012,"Kindergarten Teachers, Except Special Education",61170
+252020,Elementary and Middle School Teachers,65300
+252021,"Elementary School Teachers, Except Special Education",65420
+252022,"Middle School Teachers, Except Special and Career/Technical Education",64990
+252023,"Career/Technical Education Teachers, Middle School",66950
+252030,Secondary School Teachers,67240
+252031,"Secondary School Teachers, Except Special and Career/Technical Education",67340
+252032,"Career/Technical Education Teachers, Secondary School",65870
+252050,Special Education Teachers,65920
+252051,"Special Education Teachers, Preschool",68110
+252052,"Special Education Teachers, Kindergarten and Elementary School",64790
+252057,"Special Education Teachers, Middle School",66300
+252058,"Special Education Teachers, Secondary School",66490
+252059,"Special Education Teachers, All Other",67670
+253000,Other Teachers and Instructors,43520
+253010,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",59810
+253011,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",59810
+253020,Self-Enrichment Teachers,47930
+253021,Self-Enrichment Teachers,47930
+253030,"Substitute Teachers, Short-Term",36090
+253031,"Substitute Teachers, Short-Term",36090
+253097,"Tutors and Teachers and Instructors, All Other",50390
+254000,"Librarians, Curators, and Archivists",54400
+254010,"Archivists, Curators, and Museum Technicians",56960
+254011,Archivists,61210
+254012,Curators,61650
+254013,Museum Technicians and Conservators,49990
+254020,Librarians and Media Collections Specialists,63560
+254022,Librarians and Media Collections Specialists,63560
+254030,Library Technicians,39630
+254031,Library Technicians,39630
+259000,Other Educational Instruction and Library Occupations,36790
+259020,Farm and Home Management Educators,54870
+259021,Farm and Home Management Educators,54870
+259030,Instructional Coordinators,70160
+259031,Instructional Coordinators,70160
+259040,Teaching Assistants,31500
+259044,"Teaching Assistants, Postsecondary",39460
+259045,"Teaching Assistants, Except Postsecondary",30630
+259090,Miscellaneous Educational Instruction and Library Workers,47210
+259099,"Educational Instruction and Library Workers, All Other",47210
+270000,"Arts, Design, Entertainment, Sports, and Media Occupations",64400
+271000,Art and Design Workers,59150
+271010,Artists and Related Workers,93530
+271011,Art Directors,114490
+271012,Craft Artists,38260
+271013,"Fine Artists, Including Painters, Sculptors, and Illustrators",65020
+271014,Special Effects Artists and Animators,88080
+271019,"Artists and Related Workers, All Other",69650
+271020,Designers,53030
+271021,Commercial and Industrial Designers,76290
+271022,Fashion Designers,87210
+271023,Floral Designers,30670
+271024,Graphic Designers,58370
+271025,Interior Designers,61400
+271026,Merchandise Displayers and Window Trimmers,34550
+271027,Set and Exhibit Designers,64610
+271029,"Designers, All Other",71340
+272000,"Entertainers and Performers, Sports and Related Workers",65700
+272010,"Actors, Producers, and Directors",88190
+272011,Actors,
+272012,Producers and Directors,96690
+272020,"Athletes, Coaches, Umpires, and Related Workers",48310
+272021,Athletes and Sports Competitors,94740
+272022,Coaches and Scouts,47100
+272023,"Umpires, Referees, and Other Sports Officials",40140
+272030,Dancers and Choreographers,52110
+272031,Dancers,
+272032,Choreographers,52000
+272040,"Musicians, Singers, and Related Workers",
+272041,Music Directors and Composers,65720
+272042,Musicians and Singers,
+272090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",
+272090,"Miscellaneous Entertainers and Performers, Sports and Related Workers",
+273000,Media and Communication Workers,70180
+273010,Broadcast Announcers and Radio Disc Jockeys,57300
+273011,Broadcast Announcers and Radio Disc Jockeys,57300
+273020,"News Analysts, Reporters and Journalists",66000
+273023,"News Analysts, Reporters, and Journalists",66000
+273030,Public Relations Specialists,71940
+273031,Public Relations Specialists,71940
+273040,Writers and Editors,76270
+273041,Editors,73910
+273042,Technical Writers,78590
+273043,Writers and Authors,78680
+273090,Miscellaneous Media and Communication Workers,58840
+273091,Interpreters and Translators,58140
+273092,Court Reporters and Simultaneous Captioners,66710
+273099,"Media and Communication Workers, All Other",55540
+274000,Media and Communication Equipment Workers,59990
+274011,Audio and Video Technicians,53390
+274012,Broadcast Technicians,49250
+274014,Sound Engineering Technicians,67210
+274020,Photographers,50290
+274021,Photographers,50290
+274030,"Television, Video, and Film Camera Operators and Editors",76130
+274031,"Camera Operators, Television, Video, and Film",67590
+274032,Film and Video Editors,83880
+274098,"Lighting Technicians and Media and Communication Equipment Workers, All Other",74880
+290000,Healthcare Practitioners and Technical Occupations,85900
+291000,Healthcare Diagnosing or Treating Practitioners,105220
+291010,Chiropractors,83830
+291011,Chiropractors,83830
+291020,Dentists,186300
+291021,"Dentists, General",180830
+291022,Oral and Maxillofacial Surgeons,234990
+291023,Orthodontists,237990
+291024,Prosthodontists,214870
+291029,"Dentists, All Other Specialists",194930
+291030,Dietitians and Nutritionists,64150
+291031,Dietitians and Nutritionists,64150
+291040,Optometrists,125440
+291041,Optometrists,125440
+291050,Pharmacists,125460
+291051,Pharmacists,125460
+291070,Physician Assistants,116080
+291071,Physician Assistants,116080
+291080,Podiatrists,151110
+291081,Podiatrists,151110
+291120,Therapists,82030
+291122,Occupational Therapists,87480
+291123,Physical Therapists,91680
+291124,Radiation Therapists,94300
+291125,Recreational Therapists,51260
+291126,Respiratory Therapists,65640
+291127,Speech-Language Pathologists,83240
+291128,Exercise Physiologists,54020
+291129,"Therapists, All Other",62090
+291130,Veterinarians,108350
+291131,Veterinarians,108350
+291140,Registered Nurses,80010
+291141,Registered Nurses,80010
+291150,Nurse Anesthetists,189190
+291151,Nurse Anesthetists,189190
+291160,Nurse Midwives,115540
+291161,Nurse Midwives,115540
+291170,Nurse Practitioners,114510
+291171,Nurse Practitioners,114510
+291180,Audiologists,89230
+291181,Audiologists,89230
+291211,Anesthesiologists,271440
+291215,Family Medicine Physicians,214370
+291216,General Internal Medicine Physicians,210960
+291218,Obstetricians and Gynecologists,239120
+291221,"Pediatricians, General",184570
+291223,Psychiatrists,217100
+291228,"Physicians, All Other; and Ophthalmologists, Except Pediatric",218850
+291248,"Surgeons, Except Ophthalmologists",251650
+291290,Miscellaneous Healthcare Diagnosing or Treating Practitioners,81060
+291292,Dental Hygienists,78050
+291298,"Acupuncturists and Healthcare Diagnosing or Treating Practitioners, All Other",97270
+292000,Health Technologists and Technicians,48990
+292010,Clinical Laboratory Technologists and Technicians,55990
+292010,Clinical Laboratory Technologists and Technicians,55990
+292031,Cardiovascular Technologists and Technicians,60940
+292032,Diagnostic Medical Sonographers,77790
+292033,Nuclear Medicine Technologists,82080
+292034,Radiologic Technologists and Technicians,64840
+292035,Magnetic Resonance Imaging Technologists,75960
+292040,Emergency Medical Technicians and Paramedics,40370
+292040,Emergency Medical Technicians and Paramedics,40370
+292050,Health Practitioner Support Technologists and Technicians,38970
+292051,Dietetic Technicians,32920
+292052,Pharmacy Technicians,36450
+292053,Psychiatric Technicians,38080
+292055,Surgical Technologists,51510
+292056,Veterinary Technologists and Technicians,37860
+292057,Ophthalmic Medical Technicians,40010
+292060,Licensed Practical and Licensed Vocational Nurses,50090
+292061,Licensed Practical and Licensed Vocational Nurses,50090
+292080,"Opticians, Dispensing",41380
+292081,"Opticians, Dispensing",41380
+292091,Orthotists and Prosthetists,74120
+292092,Hearing Aid Specialists,54630
+292098,"Medical Dosimetrists, Medical Records Specialists, and Health Technologists and Technicians, All Other",48270
+299000,Other Healthcare Practitioners and Technical Occupations,59280
+299091,Athletic Trainers,52230
+299092,Genetic Counselors,89710
+299098,"Health Information Technologists, Medical Registrars, Surgical Assistants, and Healthcare Practitioners and Technical Workers, All Other",60900
+310000,Healthcare Support Occupations,32250
+311100,"Home Health and Personal Care Aides; and Nursing Assistants, Orderlies, and Psychiatric Aides",29320
+311120,Home Health and Personal Care Aides,28060
+311120,Home Health and Personal Care Aides,28060
+311130,"Nursing Assistants, Orderlies, and Psychiatric Aides",32090
+311131,Nursing Assistants,32050
+311132,Orderlies,31780
+311133,Psychiatric Aides,33300
+312000,Occupational Therapy and Physical Therapist Assistants and Aides,52400
+312010,Occupational Therapy Assistants and Aides,60010
+312011,Occupational Therapy Assistants,63420
+312012,Occupational Therapy Aides,34160
+312020,Physical Therapist Assistants and Aides,49750
+312021,Physical Therapist Assistants,59440
+312022,Physical Therapist Aides,30110
+319000,Other Healthcare Support Occupations,38540
+319010,Massage Therapists,47350
+319011,Massage Therapists,47350
+319090,Miscellaneous Healthcare Support Occupations,38030
+319091,Dental Assistants,42310
+319092,Medical Assistants,36930
+319093,Medical Equipment Preparers,41070
+319094,Medical Transcriptionists,37310
+319095,Pharmacy Aides,32250
+319096,Veterinary Assistants and Laboratory Animal Caretakers,30980
+319097,Phlebotomists,37280
+319099,"Healthcare Support Workers, All Other",41430
+330000,Protective Service Occupations,52220
+331000,Supervisors of Protective Service Workers,79080
+331010,First-Line Supervisors of Law Enforcement Workers,88190
+331011,First-Line Supervisors of Correctional Officers,67600
+331012,First-Line Supervisors of Police and Detectives,97180
+331020,First-Line Supervisors of Firefighting and Prevention Workers,83170
+331021,First-Line Supervisors of Firefighting and Prevention Workers,83170
+331090,"Miscellaneous First-Line Supervisors, Protective Service Workers",55210
+331090,"Miscellaneous First-Line Supervisors, Protective Service Workers",55210
+332000,Firefighting and Prevention Workers,56800
+332010,Firefighters,56360
+332011,Firefighters,56360
+332020,Fire Inspectors,65010
+332021,Fire Inspectors and Investigators,67680
+332022,Forest Fire Inspectors and Prevention Specialists,52130
+333000,Law Enforcement Workers,65240
+333010,"Bailiffs, Correctional Officers, and Jailers",52310
+333011,Bailiffs,51730
+333012,Correctional Officers and Jailers,52340
+333020,Detectives and Criminal Investigators,89300
+333021,Detectives and Criminal Investigators,89300
+333030,Fish and Game Wardens,57810
+333031,Fish and Game Wardens,57810
+333040,Parking Enforcement Workers,44870
+333041,Parking Enforcement Workers,44870
+333050,Police Officers,70010
+333051,Police and Sheriff's Patrol Officers,70000
+333052,Transit and Railroad Police,71000
+339000,Other Protective Service Workers,34940
+339010,Animal Control Workers,40680
+339011,Animal Control Workers,40680
+339020,Private Detectives and Investigators,60100
+339021,Private Detectives and Investigators,60100
+339030,Security Guards and Gambling Surveillance Officers,34410
+339031,Gambling Surveillance Officers and Gambling Investigators,39910
+339032,Security Guards,34360
+339090,Miscellaneous Protective Service Workers,34140
+339091,Crossing Guards and Flaggers,34220
+339092,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",27050
+339093,Transportation Security Screeners,44920
+339098,"School Bus Monitors and Protective Service Workers, All Other",36140
+350000,Food Preparation and Serving Related Occupations,27650
+351000,Supervisors of Food Preparation and Serving Workers,40010
+351010,Supervisors of Food Preparation and Serving Workers,40010
+351011,Chefs and Head Cooks,58740
+351012,First-Line Supervisors of Food Preparation and Serving Workers,37880
+352000,Cooks and Food Preparation Workers,27820
+352010,Cooks,28180
+352011,"Cooks, Fast Food",24300
+352012,"Cooks, Institution and Cafeteria",29940
+352013,"Cooks, Private Household",46810
+352014,"Cooks, Restaurant",29530
+352015,"Cooks, Short Order",27030
+352019,"Cooks, All Other",32350
+352020,Food Preparation Workers,26820
+352021,Food Preparation Workers,26820
+353000,Food and Beverage Serving Workers,25930
+353010,Bartenders,28910
+353011,Bartenders,28910
+353020,Fast Food and Counter Workers,24540
+353023,Fast Food and Counter Workers,24540
+353030,Waiters and Waitresses,27470
+353031,Waiters and Waitresses,27470
+353040,"Food Servers, Nonrestaurant",27460
+353041,"Food Servers, Nonrestaurant",27460
+359000,Other Food Preparation and Serving Related Workers,25740
+359010,Dining Room and Cafeteria Attendants and Bartender Helpers,26300
+359011,Dining Room and Cafeteria Attendants and Bartender Helpers,26300
+359020,Dishwashers,25600
+359021,Dishwashers,25600
+359030,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",24800
+359031,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",24800
+359090,Miscellaneous Food Preparation and Serving Related Workers,27880
+359099,"Food Preparation and Serving Related Workers, All Other",27880
+370000,Building and Grounds Cleaning and Maintenance Occupations,32760
+371000,Supervisors of Building and Grounds Cleaning and Maintenance Workers,49110
+371010,First-Line Supervisors of Building and Grounds Cleaning and Maintenance Workers,49110
+371011,First-Line Supervisors of Housekeeping and Janitorial Workers,45500
+371012,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",54040
+372000,Building Cleaning and Pest Control Workers,30760
+372010,Building Cleaning Workers,30490
+372011,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",31410
+372012,Maids and Housekeeping Cleaners,28010
+372019,"Building Cleaning Workers, All Other",38860
+372020,Pest Control Workers,40350
+372021,Pest Control Workers,40350
+373000,Grounds Maintenance Workers,34590
+373010,Grounds Maintenance Workers,34590
+373011,Landscaping and Groundskeeping Workers,33800
+373012,"Pesticide Handlers, Sprayers, and Applicators, Vegetation",39130
+373013,Tree Trimmers and Pruners,44040
+373019,"Grounds Maintenance Workers, All Other",40270
+390000,Personal Care and Service Occupations,32610
+391000,Supervisors of Personal Care and Service Workers,46350
+391013,First-Line Supervisors of Gambling Services Workers,51160
+391098,"First-Line Supervisors of Personal Service and Entertainment and Recreation Workers, Except Gambling Services",45820
+392000,Animal Care and Service Workers,29060
+392010,Animal Trainers,37950
+392011,Animal Trainers,37950
+392020,Animal Caretakers,28380
+392021,Animal Caretakers,28380
+393000,Entertainment Attendants and Related Workers,26560
+393010,Gambling Services Workers,26940
+393011,Gambling Dealers,26110
+393012,Gambling and Sports Book Writers and Runners,27130
+393019,"Gambling Service Workers, All Other",33340
+393020,Motion Picture Projectionists,34380
+393021,Motion Picture Projectionists,34380
+393030,"Ushers, Lobby Attendants, and Ticket Takers",26390
+393031,"Ushers, Lobby Attendants, and Ticket Takers",26390
+393090,Miscellaneous Entertainment Attendants and Related Workers,26430
+393091,Amusement and Recreation Attendants,25610
+393092,Costume Attendants,51780
+393093,"Locker Room, Coatroom, and Dressing Room Attendants",29320
+393099,"Entertainment Attendants and Related Workers, All Other",32580
+394011,Embalmers,50220
+394020,Funeral Attendants,31130
+394021,Funeral Attendants,31130
+394030,"Morticians, Undertakers, and Funeral Arrangers",59000
+394031,"Morticians, Undertakers, and Funeral Arrangers",59000
+395000,Personal Appearance Workers,33460
+395010,"Barbers, Hairdressers, Hairstylists and Cosmetologists",32990
+395011,Barbers,38050
+395012,"Hairdressers, Hairstylists, and Cosmetologists",32740
+395090,Miscellaneous Personal Appearance Workers,34580
+395091,"Makeup Artists, Theatrical and Performance",99990
+395092,Manicurists and Pedicurists,29010
+395093,Shampooers,24320
+395094,Skincare Specialists,41230
+396000,"Baggage Porters, Bellhops, and Concierges",32580
+396010,"Baggage Porters, Bellhops, and Concierges",32580
+396011,Baggage Porters and Bellhops,29060
+396012,Concierges,35310
+397000,Tour and Travel Guides,32200
+397010,Tour and Travel Guides,32200
+397010,Tour and Travel Guides,32200
+399010,Childcare Workers,26790
+399011,Childcare Workers,26790
+399030,Recreation and Fitness Workers,37310
+399031,Exercise Trainers and Group Fitness Instructors,45650
+399032,Recreation Workers,30960
+399040,Residential Advisors,33430
+399041,Residential Advisors,33430
+399098,"Crematory Operators and Personal Care and Service Workers, All Other",30330
+410000,Sales and Related Occupations,45750
+411000,Supervisors of Sales Workers,55200
+411010,First-Line Supervisors of Sales Workers,55200
+411011,First-Line Supervisors of Retail Sales Workers,47300
+411012,First-Line Supervisors of Non-Retail Sales Workers,90120
+412000,Retail Sales Workers,29010
+412010,Cashiers,25730
+412011,Cashiers,25710
+412012,Gambling Change Persons and Booth Cashiers,29110
+412020,Counter and Rental Clerks and Parts Salespersons,35380
+412021,Counter and Rental Clerks,34700
+412022,Parts Salespersons,36350
+412030,Retail Salespersons,30940
+412031,Retail Salespersons,30940
+413000,"Sales Representatives, Services",75170
+413010,Advertising Sales Agents,68040
+413011,Advertising Sales Agents,68040
+413020,Insurance Sales Agents,69100
+413021,Insurance Sales Agents,69100
+413030,"Securities, Commodities, and Financial Services Sales Agents",96540
+413031,"Securities, Commodities, and Financial Services Sales Agents",96540
+413040,Travel Agents,46650
+413041,Travel Agents,46650
+413090,"Miscellaneous Sales Representatives, Services",70490
+413091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",70490
+414000,"Sales Representatives, Wholesale and Manufacturing",78310
+414010,"Sales Representatives, Wholesale and Manufacturing",78310
+414011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",99680
+414012,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",73500
+419000,Other Sales and Related Workers,54890
+419010,"Models, Demonstrators, and Product Promoters",37630
+419011,Demonstrators and Product Promoters,37080
+419012,Models,54050
+419020,Real Estate Brokers and Sales Agents,66890
+419021,Real Estate Brokers,81630
+419022,Real Estate Sales Agents,62990
+419030,Sales Engineers,117270
+419031,Sales Engineers,117270
+419040,Telemarketers,30930
+419041,Telemarketers,30930
+419090,Miscellaneous Sales and Related Workers,39590
+419091,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",36740
+419099,"Sales and Related Workers, All Other",39750
+430000,Office and Administrative Support Occupations,42390
+431000,Supervisors of Office and Administrative Support Workers,62010
+431010,First-Line Supervisors of Office and Administrative Support Workers,62010
+431011,First-Line Supervisors of Office and Administrative Support Workers,62010
+432000,Communications Equipment Operators,35050
+432010,"Switchboard Operators, Including Answering Service",33980
+432011,"Switchboard Operators, Including Answering Service",33980
+432020,Telephone Operators,39340
+432021,Telephone Operators,39340
+432090,Miscellaneous Communications Equipment Operators,49260
+432099,"Communications Equipment Operators, All Other",49260
+433000,Financial Clerks,41920
+433010,Bill and Account Collectors,40630
+433011,Bill and Account Collectors,40630
+433020,Billing and Posting Clerks,41610
+433021,Billing and Posting Clerks,41610
+433030,"Bookkeeping, Accounting, and Auditing Clerks",44100
+433031,"Bookkeeping, Accounting, and Auditing Clerks",44100
+433040,Gambling Cage Workers,29700
+433041,Gambling Cage Workers,29700
+433050,Payroll and Timekeeping Clerks,48290
+433051,Payroll and Timekeeping Clerks,48290
+433060,Procurement Clerks,45400
+433061,Procurement Clerks,45400
+433070,Tellers,32960
+433071,Tellers,32960
+433090,Miscellaneous Financial Clerks,46310
+433099,"Financial Clerks, All Other",46310
+434000,Information and Record Clerks,37900
+434010,Brokerage Clerks,58460
+434011,Brokerage Clerks,58460
+434020,Correspondence Clerks,40070
+434021,Correspondence Clerks,40070
+434030,"Court, Municipal, and License Clerks",43490
+434031,"Court, Municipal, and License Clerks",43490
+434040,"Credit Authorizers, Checkers, and Clerks",43580
+434041,"Credit Authorizers, Checkers, and Clerks",43580
+434050,Customer Service Representatives,38510
+434051,Customer Service Representatives,38510
+434060,"Eligibility Interviewers, Government Programs",47990
+434061,"Eligibility Interviewers, Government Programs",47990
+434070,File Clerks,36140
+434071,File Clerks,36140
+434080,"Hotel, Motel, and Resort Desk Clerks",26900
+434081,"Hotel, Motel, and Resort Desk Clerks",26900
+434110,"Interviewers, Except Eligibility and Loan",37640
+434111,"Interviewers, Except Eligibility and Loan",37640
+434120,"Library Assistants, Clerical",30740
+434121,"Library Assistants, Clerical",30740
+434130,Loan Interviewers and Clerks,42780
+434131,Loan Interviewers and Clerks,42780
+434140,New Accounts Clerks,39870
+434141,New Accounts Clerks,39870
+434150,Order Clerks,37660
+434151,Order Clerks,37660
+434160,"Human Resources Assistants, Except Payroll and Timekeeping",44170
+434161,"Human Resources Assistants, Except Payroll and Timekeeping",44170
+434170,Receptionists and Information Clerks,32410
+434171,Receptionists and Information Clerks,32410
+434180,Reservation and Transportation Ticket Agents and Travel Clerks,45710
+434181,Reservation and Transportation Ticket Agents and Travel Clerks,45710
+434190,Miscellaneous Information and Record Clerks,43880
+434199,"Information and Record Clerks, All Other",43880
+435000,"Material Recording, Scheduling, Dispatching, and Distributing Workers",44930
+435010,Cargo and Freight Agents,47170
+435011,Cargo and Freight Agents,47170
+435020,Couriers and Messengers,33010
+435021,Couriers and Messengers,33010
+435030,Dispatchers,45170
+435031,Public Safety Telecommunicators,45800
+435032,"Dispatchers, Except Police, Fire, and Ambulance",44860
+435040,"Meter Readers, Utilities",46160
+435041,"Meter Readers, Utilities",46160
+435050,Postal Service Workers,52500
+435051,Postal Service Clerks,51200
+435052,Postal Service Mail Carriers,53180
+435053,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",51440
+435060,"Production, Planning, and Expediting Clerks",52000
+435061,"Production, Planning, and Expediting Clerks",52000
+435070,"Shipping, Receiving, and Inventory Clerks",37210
+435071,"Shipping, Receiving, and Inventory Clerks",37210
+435110,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",38080
+435111,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",38080
+436000,Secretaries and Administrative Assistants,44800
+436010,Secretaries and Administrative Assistants,44800
+436011,Executive Secretaries and Executive Administrative Assistants,65230
+436012,Legal Secretaries and Administrative Assistants,52750
+436013,Medical Secretaries and Administrative Assistants,39000
+436014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",40420
+439000,Other Office and Administrative Support Workers,38290
+439020,Data Entry and Information Processing Workers,37350
+439021,Data Entry Keyers,35850
+439022,Word Processors and Typists,42630
+439030,Desktop Publishers,50600
+439031,Desktop Publishers,50600
+439040,Insurance Claims and Policy Processing Clerks,45070
+439041,Insurance Claims and Policy Processing Clerks,45070
+439050,"Mail Clerks and Mail Machine Operators, Except Postal Service",33700
+439051,"Mail Clerks and Mail Machine Operators, Except Postal Service",33700
+439060,"Office Clerks, General",37770
+439061,"Office Clerks, General",37770
+439070,"Office Machine Operators, Except Computer",36580
+439071,"Office Machine Operators, Except Computer",36580
+439080,Proofreaders and Copy Markers,44670
+439081,Proofreaders and Copy Markers,44670
+439110,Statistical Assistants,52120
+439111,Statistical Assistants,52120
+439190,Miscellaneous Office and Administrative Support Workers,39340
+439199,"Office and Administrative Support Workers, All Other",39340
+450000,"Farming, Fishing, and Forestry Occupations",33310
+451000,"Supervisors of Farming, Fishing, and Forestry Workers",54420
+451010,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",54420
+451011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",54420
+452000,Agricultural Workers,31180
+452010,Agricultural Inspectors,48620
+452011,Agricultural Inspectors,48620
+452020,Animal Breeders,43930
+452021,Animal Breeders,43930
+452040,"Graders and Sorters, Agricultural Products",29620
+452041,"Graders and Sorters, Agricultural Products",29620
+452090,Miscellaneous Agricultural Workers,30620
+452091,Agricultural Equipment Operators,34070
+452092,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse",30140
+452093,"Farmworkers, Farm, Ranch, and Aquacultural Animals",31060
+452099,"Agricultural Workers, All Other",34330
+454000,"Forest, Conservation, and Logging Workers",42230
+454010,Forest and Conservation Workers,33520
+454011,Forest and Conservation Workers,33520
+454020,Logging Workers,43740
+454021,Fallers,49520
+454022,Logging Equipment Operators,43570
+454023,Log Graders and Scalers,38940
+454029,"Logging Workers, All Other",41830
+470000,Construction and Extraction Occupations,53940
+471000,Supervisors of Construction and Extraction Workers,72990
+471010,First-Line Supervisors of Construction Trades and Extraction Workers,72990
+471011,First-Line Supervisors of Construction Trades and Extraction Workers,72990
+472000,Construction Trades Workers,52580
+472010,Boilermakers,67430
+472011,Boilermakers,67430
+472020,"Brickmasons, Blockmasons, and Stonemasons",56750
+472021,Brickmasons and Blockmasons,58420
+472022,Stonemasons,48290
+472030,Carpenters,54200
+472031,Carpenters,54200
+472040,"Carpet, Floor, and Tile Installers and Finishers",47650
+472041,Carpet Installers,46150
+472042,"Floor Layers, Except Carpet, Wood, and Hard Tiles",49740
+472043,Floor Sanders and Finishers,41400
+472044,Tile and Stone Setters,48490
+472050,"Cement Masons, Concrete Finishers, and Terrazzo Workers",49490
+472051,Cement Masons and Concrete Finishers,49390
+472053,Terrazzo Workers and Finishers,56440
+472060,Construction Laborers,43000
+472061,Construction Laborers,43000
+472070,Construction Equipment Operators,54540
+472071,"Paving, Surfacing, and Tamping Equipment Operators",46400
+472072,Pile Driver Operators,71880
+472073,Operating Engineers and Other Construction Equipment Operators,55280
+472080,"Drywall Installers, Ceiling Tile Installers, and Tapers",53360
+472081,Drywall and Ceiling Tile Installers,51930
+472082,Tapers,62140
+472110,Electricians,61550
+472111,Electricians,61550
+472120,Glaziers,50970
+472121,Glaziers,50970
+472130,Insulation Workers,50800
+472131,"Insulation Workers, Floor, Ceiling, and Wall",46860
+472132,"Insulation Workers, Mechanical",55470
+472140,Painters and Paperhangers,46500
+472141,"Painters, Construction and Maintenance",46460
+472142,Paperhangers,49820
+472150,"Pipelayers, Plumbers, Pipefitters, and Steamfitters",59890
+472151,Pipelayers,45060
+472152,"Plumbers, Pipefitters, and Steamfitters",61100
+472160,Plasterers and Stucco Masons,52100
+472161,Plasterers and Stucco Masons,52100
+472170,Reinforcing Iron and Rebar Workers,54700
+472171,Reinforcing Iron and Rebar Workers,54700
+472180,Roofers,47010
+472181,Roofers,47010
+472210,Sheet Metal Workers,55320
+472211,Sheet Metal Workers,55320
+472220,Structural Iron and Steel Workers,58650
+472221,Structural Iron and Steel Workers,58650
+472230,Solar Photovoltaic Installers,48020
+472231,Solar Photovoltaic Installers,48020
+473000,"Helpers, Construction Trades",35640
+473010,"Helpers, Construction Trades",35640
+473011,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",40190
+473012,Helpers--Carpenters,35360
+473013,Helpers--Electricians,35440
+473014,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",33520
+473015,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",34990
+473016,Helpers--Roofers,35080
+473019,"Helpers, Construction Trades, All Other",35140
+474000,Other Construction and Related Workers,52750
+474010,Construction and Building Inspectors,66470
+474011,Construction and Building Inspectors,66470
+474020,Elevator and Escalator Installers and Repairers,86200
+474021,Elevator and Escalator Installers and Repairers,86200
+474030,Fence Erectors,40120
+474031,Fence Erectors,40120
+474040,Hazardous Materials Removal Workers,49170
+474041,Hazardous Materials Removal Workers,49170
+474050,Highway Maintenance Workers,43200
+474051,Highway Maintenance Workers,43200
+474060,Rail-Track Laying and Maintenance Equipment Operators,57430
+474061,Rail-Track Laying and Maintenance Equipment Operators,57430
+474070,Septic Tank Servicers and Sewer Pipe Cleaners,43930
+474071,Septic Tank Servicers and Sewer Pipe Cleaners,43930
+474090,Miscellaneous Construction and Related Workers,44180
+474090,Miscellaneous Construction and Related Workers,44180
+475000,Extraction Workers,49520
+475010,"Derrick, Rotary Drill, and Service Unit Operators, Oil and Gas",53670
+475011,"Derrick Operators, Oil and Gas",50280
+475012,"Rotary Drill Operators, Oil and Gas",58940
+475013,"Service Unit Operators, Oil and Gas",52510
+475022,"Excavating and Loading Machine and Dragline Operators, Surface Mining",48500
+475041,Continuous Mining Machine Operators,58340
+475043,"Roof Bolters, Mining",61900
+475044,"Loading and Moving Machine Operators, Underground Mining",56100
+475050,"Rock Splitters, Quarry",38430
+475051,"Rock Splitters, Quarry",38430
+475070,"Roustabouts, Oil and Gas",42160
+475071,"Roustabouts, Oil and Gas",42160
+475080,Helpers--Extraction Workers,39150
+475081,Helpers--Extraction Workers,39150
+475097,"Earth Drillers, Except Oil and Gas; and Explosives Workers, Ordnance Handling Experts, and Blasters",51040
+475098,"Underground Mining Machine Operators and Extraction Workers, All Other",53730
+490000,"Installation, Maintenance, and Repair Occupations",52360
+491000,"Supervisors of Installation, Maintenance, and Repair Workers",73100
+491010,"First-Line Supervisors of Mechanics, Installers, and Repairers",73100
+491011,"First-Line Supervisors of Mechanics, Installers, and Repairers",73100
+492000,"Electrical and Electronic Equipment Mechanics, Installers, and Repairers",57400
+492010,"Computer, Automated Teller, and Office Machine Repairers",43790
+492011,"Computer, Automated Teller, and Office Machine Repairers",43790
+492020,Radio and Telecommunications Equipment Installers and Repairers,61900
+492021,"Radio, Cellular, and Tower Equipment Installers and Repairers",60790
+492022,"Telecommunications Equipment Installers and Repairers, Except Line Installers",61980
+492090,"Miscellaneous Electrical and Electronic Equipment Mechanics, Installers, and Repairers",58850
+492091,Avionics Technicians,69180
+492092,"Electric Motor, Power Tool, and Related Repairers",49250
+492093,"Electrical and Electronics Installers and Repairers, Transportation Equipment",70440
+492094,"Electrical and Electronics Repairers, Commercial and Industrial Equipment",63350
+492095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",83150
+492096,"Electronic Equipment Installers and Repairers, Motor Vehicles",41250
+492097,Audiovisual Equipment Installers and Repairers,44850
+492098,Security and Fire Alarm Systems Installers,52150
+493000,"Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",49420
+493010,Aircraft Mechanics and Service Technicians,69040
+493011,Aircraft Mechanics and Service Technicians,69040
+493020,Automotive Technicians and Repairers,47060
+493021,Automotive Body and Related Repairers,49430
+493022,Automotive Glass Installers and Repairers,39660
+493023,Automotive Service Technicians and Mechanics,46760
+493030,Bus and Truck Mechanics and Diesel Engine Specialists,52090
+493031,Bus and Truck Mechanics and Diesel Engine Specialists,52090
+493040,Heavy Vehicle and Mobile Equipment Service Technicians and Mechanics,55110
+493041,Farm Equipment Mechanics and Service Technicians,45350
+493042,"Mobile Heavy Equipment Mechanics, Except Engines",57000
+493043,Rail Car Repairers,58250
+493050,Small Engine Mechanics,41360
+493051,Motorboat Mechanics and Service Technicians,45490
+493052,Motorcycle Mechanics,40390
+493053,Outdoor Power Equipment and Other Small Engine Mechanics,39090
+493090,"Miscellaneous Vehicle and Mobile Equipment Mechanics, Installers, and Repairers",33400
+493091,Bicycle Repairers,33530
+493092,Recreational Vehicle Service Technicians,43790
+493093,Tire Repairers and Changers,31790
+499000,"Other Installation, Maintenance, and Repair Occupations",49650
+499010,Control and Valve Installers and Repairers,57120
+499011,Mechanical Door Repairers,45350
+499012,"Control and Valve Installers and Repairers, Except Mechanical Door",62400
+499020,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",53410
+499021,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",53410
+499030,Home Appliance Repairers,43810
+499031,Home Appliance Repairers,43810
+499040,"Industrial Machinery Installation, Repair, and Maintenance Workers",56790
+499041,Industrial Machinery Mechanics,57350
+499043,"Maintenance Workers, Machinery",51960
+499044,Millwrights,59080
+499045,"Refractory Materials Repairers, Except Brickmasons",55080
+499050,Line Installers and Repairers,67940
+499051,Electrical Power-Line Installers and Repairers,74410
+499052,Telecommunications Line Installers and Repairers,61860
+499060,Precision Instrument and Equipment Repairers,53830
+499061,Camera and Photographic Equipment Repairers,42740
+499062,Medical Equipment Repairers,55090
+499063,Musical Instrument Repairers and Tuners,39770
+499064,Watch and Clock Repairers,48560
+499069,"Precision Instrument and Equipment Repairers, All Other",62500
+499070,"Maintenance and Repair Workers, General",43790
+499071,"Maintenance and Repair Workers, General",43790
+499080,Wind Turbine Service Technicians,59340
+499081,Wind Turbine Service Technicians,59340
+499090,"Miscellaneous Installation, Maintenance, and Repair Workers",43490
+499091,"Coin, Vending, and Amusement Machine Servicers and Repairers",39710
+499092,Commercial Divers,71850
+499094,Locksmiths and Safe Repairers,46240
+499095,Manufactured Building and Mobile Home Installers,36360
+499096,Riggers,53020
+499097,Signal and Track Switch Repairers,75970
+499098,"Helpers--Installation, Maintenance, and Repair Workers",33960
+499099,"Installation, Maintenance, and Repair Workers, All Other",46160
+510000,Production Occupations,41760
+511000,Supervisors of Production Workers,66800
+511010,First-Line Supervisors of Production and Operating Workers,66800
+511011,First-Line Supervisors of Production and Operating Workers,66800
+512000,Assemblers and Fabricators,37550
+512010,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",55510
+512011,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",55510
+512020,"Electrical, Electronics, and Electromechanical Assemblers",38810
+512021,"Coil Winders, Tapers, and Finishers",40280
+512028,"Electrical, Electronic, and Electromechanical Assemblers, Except Coil Winders, Tapers, and Finishers",38750
+512030,Engine and Other Machine Assemblers,47190
+512031,Engine and Other Machine Assemblers,47190
+512040,Structural Metal Fabricators and Fitters,44750
+512041,Structural Metal Fabricators and Fitters,44750
+512050,Fiberglass Laminators and Fabricators,38280
+512051,Fiberglass Laminators and Fabricators,38280
+512060,Timing Device Assemblers and Adjusters,39430
+512061,Timing Device Assemblers and Adjusters,39430
+512090,Miscellaneous Assemblers and Fabricators,35980
+512090,Miscellaneous Assemblers and Fabricators,35980
+513000,Food Processing Workers,32640
+513010,Bakers,31060
+513011,Bakers,31060
+513020,"Butchers and Other Meat, Poultry, and Fish Processing Workers",32370
+513021,Butchers and Meat Cutters,34630
+513022,"Meat, Poultry, and Fish Cutters and Trimmers",30800
+513023,Slaughterers and Meat Packers,31210
+513090,Miscellaneous Food Processing Workers,34170
+513091,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",35370
+513092,Food Batchmakers,34970
+513093,Food Cooking Machine Operators and Tenders,34180
+513099,"Food Processing Workers, All Other",30680
+514000,Metal Workers and Plastic Workers,43540
+514020,"Forming Machine Setters, Operators, and Tenders, Metal and Plastic",41310
+514021,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",38990
+514022,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",43480
+514023,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",45110
+514030,"Machine Tool Cutting Setters, Operators, and Tenders, Metal and Plastic",39500
+514031,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",38650
+514032,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",42800
+514033,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",38800
+514034,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",43100
+514035,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",44920
+514040,Machinists,47800
+514041,Machinists,47800
+514050,"Metal Furnace Operators, Tenders, Pourers, and Casters",44860
+514051,Metal-Refining Furnace Operators and Tenders,46000
+514052,"Pourers and Casters, Metal",42440
+514060,"Model Makers and Patternmakers, Metal and Plastic",54630
+514061,"Model Makers, Metal and Plastic",58180
+514062,"Patternmakers, Metal and Plastic",49570
+514070,"Molders and Molding Machine Setters, Operators, and Tenders, Metal and Plastic",36190
+514071,Foundry Mold and Coremakers,38370
+514072,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",35960
+514080,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",39800
+514081,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",39800
+514110,Tool and Die Makers,55520
+514111,Tool and Die Makers,55520
+514120,"Welding, Soldering, and Brazing Workers",46280
+514121,"Welders, Cutters, Solderers, and Brazers",46690
+514122,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",41320
+514190,Miscellaneous Metal Workers and Plastic Workers,40060
+514191,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",41680
+514192,"Layout Workers, Metal and Plastic",50980
+514193,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic",36950
+514194,"Tool Grinders, Filers, and Sharpeners",43670
+514199,"Metal Workers and Plastic Workers, All Other",39490
+515100,Printing Workers,39890
+515110,Printing Workers,39890
+515111,Prepress Technicians and Workers,43370
+515112,Printing Press Operators,40200
+515113,Print Binding and Finishing Workers,36430
+516000,"Textile, Apparel, and Furnishings Workers",29920
+516010,Laundry and Dry-Cleaning Workers,26600
+516011,Laundry and Dry-Cleaning Workers,26600
+516020,"Pressers, Textile, Garment, and Related Materials",26050
+516021,"Pressers, Textile, Garment, and Related Materials",26050
+516030,Sewing Machine Operators,29420
+516031,Sewing Machine Operators,29420
+516040,Shoe and Leather Workers,31460
+516041,Shoe and Leather Workers and Repairers,31480
+516042,Shoe Machine Operators and Tenders,31430
+516050,"Tailors, Dressmakers, and Sewers",35300
+516051,"Sewers, Hand",30790
+516052,"Tailors, Dressmakers, and Custom Sewers",36040
+516060,"Textile Machine Setters, Operators, and Tenders",31900
+516061,Textile Bleaching and Dyeing Machine Operators and Tenders,31600
+516062,"Textile Cutting Machine Setters, Operators, and Tenders",30890
+516063,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders",32370
+516064,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",32130
+516090,"Miscellaneous Textile, Apparel, and Furnishings Workers",37890
+516091,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers",39170
+516092,Fabric and Apparel Patternmakers,57880
+516093,Upholsterers,37870
+516099,"Textile, Apparel, and Furnishings Workers, All Other",31070
+517000,Woodworkers,35850
+517010,Cabinetmakers and Bench Carpenters,38900
+517011,Cabinetmakers and Bench Carpenters,38900
+517020,Furniture Finishers,35040
+517021,Furniture Finishers,35040
+517030,"Model Makers and Patternmakers, Wood",62250
+517031,"Model Makers, Wood",62600
+517032,"Patternmakers, Wood",60750
+517040,"Woodworking Machine Setters, Operators, and Tenders",33440
+517041,"Sawing Machine Setters, Operators, and Tenders, Wood",33290
+517042,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",33540
+517090,Miscellaneous Woodworkers,35710
+517099,"Woodworkers, All Other",35710
+518000,Plant and System Operators,65490
+518010,"Power Plant Operators, Distributors, and Dispatchers",86720
+518011,Nuclear Power Reactor Operators,104470
+518012,Power Distributors and Dispatchers,93260
+518013,Power Plant Operators,81890
+518020,Stationary Engineers and Boiler Operators,68170
+518021,Stationary Engineers and Boiler Operators,68170
+518030,Water and Wastewater Treatment Plant and System Operators,51890
+518031,Water and Wastewater Treatment Plant and System Operators,51890
+518090,Miscellaneous Plant and System Operators,70700
+518091,Chemical Plant and System Operators,65460
+518092,Gas Plant Operators,73290
+518093,"Petroleum Pump System Operators, Refinery Operators, and Gaugers",77610
+518099,"Plant and System Operators, All Other",59600
+519000,Other Production Occupations,40510
+519010,"Chemical Processing Machine Setters, Operators, and Tenders",51120
+519011,Chemical Equipment Operators and Tenders,53330
+519012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",46850
+519020,"Crushing, Grinding, Polishing, Mixing, and Blending Workers",40110
+519021,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",41290
+519022,"Grinding and Polishing Workers, Hand",34380
+519023,"Mixing and Blending Machine Setters, Operators, and Tenders",40960
+519030,Cutting Workers,37690
+519031,"Cutters and Trimmers, Hand",34190
+519032,"Cutting and Slicing Machine Setters, Operators, and Tenders",38220
+519040,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",38440
+519041,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",38440
+519050,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",41910
+519051,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",41910
+519060,"Inspectors, Testers, Sorters, Samplers, and Weighers",44580
+519061,"Inspectors, Testers, Sorters, Samplers, and Weighers",44580
+519070,Jewelers and Precious Stone and Metal Workers,48050
+519071,Jewelers and Precious Stone and Metal Workers,48050
+519080,Dental and Ophthalmic Laboratory Technicians and Medical Appliance Technicians,42130
+519081,Dental Laboratory Technicians,45230
+519082,Medical Appliance Technicians,45630
+519083,Ophthalmic Laboratory Technicians,36640
+519110,Packaging and Filling Machine Operators and Tenders,35220
+519111,Packaging and Filling Machine Operators and Tenders,35220
+519120,Painting Workers,41770
+519123,"Painting, Coating, and Decorating Workers",37540
+519124,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",42140
+519140,Semiconductor Processing Technicians,45210
+519141,Semiconductor Processing Technicians,45210
+519150,Photographic Process Workers and Processing Machine Operators,39390
+519151,Photographic Process Workers and Processing Machine Operators,39390
+519160,Computer Numerically Controlled Tool Operators and Programmers,46740
+519161,Computer Numerically Controlled Tool Operators,44300
+519162,Computer Numerically Controlled Tool Programmers,61010
+519190,Miscellaneous Production Workers,35660
+519191,Adhesive Bonding Machine Operators and Tenders,37640
+519192,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",34600
+519193,Cooling and Freezing Equipment Operators and Tenders,39610
+519194,Etchers and Engravers,35230
+519195,"Molders, Shapers, and Casters, Except Metal and Plastic",37370
+519196,"Paper Goods Machine Setters, Operators, and Tenders",41480
+519197,Tire Builders,45980
+519198,Helpers--Production Workers,32000
+519199,"Production Workers, All Other",35620
+530000,Transportation and Material Moving Occupations,39680
+531000,Supervisors of Transportation and Material Moving Workers,58330
+531040,First-Line Supervisors of Transportation and Material Moving Workers,58330
+531041,Aircraft Cargo Handling Supervisors,59620
+531047,"First-Line Supervisors of Transportation and Material Moving Workers, Except Aircraft Cargo Handling Supervisors",58300
+532000,Air Transportation Workers,111420
+532010,Aircraft Pilots and Flight Engineers,163480
+532011,"Airline Pilots, Copilots, and Flight Engineers",186870
+532012,Commercial Pilots,110830
+532020,Air Traffic Controllers and Airfield Operations Specialists,105120
+532021,Air Traffic Controllers,127440
+532022,Airfield Operations Specialists,58360
+532030,Flight Attendants,59150
+532031,Flight Attendants,59150
+533000,Motor Vehicle Operators,42770
+533010,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",30700
+533011,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians",30700
+533030,Driver/Sales Workers and Truck Drivers,44200
+533031,Driver/Sales Workers,31870
+533032,Heavy and Tractor-Trailer Truck Drivers,48710
+533033,Light Truck Drivers,41050
+533050,Passenger Vehicle Drivers,37300
+533052,"Bus Drivers, Transit and Intercity",48110
+533058,"Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",34360
+533090,Miscellaneous Motor Vehicle Operators,40200
+533099,"Motor Vehicle Operators, All Other",40200
+534000,Rail Transportation Workers,65360
+534010,Locomotive Engineers and Operators,68960
+534011,Locomotive Engineers,70660
+534013,"Rail Yard Engineers, Dinkey Operators, and Hostlers",55200
+534020,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",55890
+534022,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers",55890
+534030,Railroad Conductors and Yardmasters,65440
+534031,Railroad Conductors and Yardmasters,65440
+534040,Subway and Streetcar Operators,65480
+534041,Subway and Streetcar Operators,65480
+534090,Miscellaneous Rail Transportation Workers,54670
+534099,"Rail Transportation Workers, All Other",54670
+535000,Water Transportation Workers,73530
+535010,Sailors and Marine Oilers,55680
+535011,Sailors and Marine Oilers,55680
+535020,Ship and Boat Captains and Operators,86860
+535021,"Captains, Mates, and Pilots of Water Vessels",89740
+535022,Motorboat Operators,53500
+535030,Ship Engineers,81110
+535031,Ship Engineers,81110
+536000,Other Transportation Workers,34970
+536010,Bridge and Lock Tenders,49610
+536011,Bridge and Lock Tenders,49610
+536020,Parking Attendants,27910
+536021,Parking Attendants,27910
+536031,Automotive and Watercraft Service Attendants,28150
+536040,Traffic Technicians,53140
+536041,Traffic Technicians,53140
+536050,Transportation Inspectors,81320
+536051,Transportation Inspectors,81320
+536060,Passenger Attendants,30410
+536061,Passenger Attendants,30410
+536098,"Aircraft Service Attendants and Transportation Workers, All Other",43920
+537000,Material Moving Workers,33290
+537010,Conveyor Operators and Tenders,37540
+537011,Conveyor Operators and Tenders,37540
+537020,Crane and Tower Operators,64010
+537021,Crane and Tower Operators,64010
+537030,Dredge Operators,53790
+537031,Dredge Operators,53790
+537040,Hoist and Winch Operators,62730
+537041,Hoist and Winch Operators,62730
+537050,Industrial Truck and Tractor Operators,39210
+537051,Industrial Truck and Tractor Operators,39210
+537060,Laborers and Material Movers,32040
+537061,Cleaners of Vehicles and Equipment,29400
+537062,"Laborers and Freight, Stock, and Material Movers, Hand",33710
+537063,Machine Feeders and Offbearers,34470
+537064,"Packers and Packagers, Hand",29270
+537065,Stockers and Order Fillers,31010
+537070,Pumping Station Operators,57500
+537071,Gas Compressor and Gas Pumping Station Operators,63770
+537072,"Pump Operators, Except Wellhead Pumpers",51830
+537073,Wellhead Pumpers,60500
+537080,Refuse and Recyclable Material Collectors,42620
+537081,Refuse and Recyclable Material Collectors,42620
+537120,"Tank Car, Truck, and Ship Loaders",50670
+537121,"Tank Car, Truck, and Ship Loaders",50670
+537190,Miscellaneous Material Moving Workers,37770
+537199,"Material Moving Workers, All Other",37770

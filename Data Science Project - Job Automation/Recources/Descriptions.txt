@@ -1,0 +1,22 @@
+SOC_CODE:
+- The 6-digit Standard Occupational Classification (SOC) code or OEWS-specific code for the occupation 
+
+A_MEAN:
+- Mean annual wage
+
+*Probability
+- (0-1)
+- Probability of COMPUTERISATION ("We refer to computerisation as job automation by means of computer-controlled equipment")
+- determined by algorithm
+- in short - algorthm considers the the amount of each skill out of an array of skills needed for the occupation
+- Calculations/details here: https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+
+(State/District)
+- Washington D.C. included
+- Total employed in state
+
+Sources:
+- https://www.icip.iastate.edu/tables/population/urban-pct-states
+- https://www.bls.gov/oes/current/oes_nat.htm 
+- http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
+
