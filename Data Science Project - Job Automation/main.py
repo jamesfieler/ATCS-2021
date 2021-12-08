@@ -100,3 +100,16 @@ plt.ylabel("Weighted Mean Automation Probability")
 plt.bar(x, y)
 plt.show()
 plt.clf()
+
+
+
+bwCollar = sorting.sortCollar(dfM) #white, blue
+bwCollarProbs = [bwCollar[0].weightedMeanProb(), bwCollar[1].weightedMeanProb()]
+bwCollarTitles = [bwCollar[0].getTitle(), bwCollar[1].getTitle()]
+
+plt.title("Blue vs White Collar Automation Probability")
+plt.bar(bwCollarTitles, bwCollarProbs)
+plt.xlabel("White vs Blue Collar")
+plt.ylabel("Weighted Mean Automation Probability")
+#plt.pie(bwCollarProbs)
+plt.show()

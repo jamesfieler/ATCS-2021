@@ -1,11 +1,16 @@
 import pandas as pd
 
 class Group(): 
-    def __init__(self, dfMaster, title, SOC_Start, SOC_End):
-        self.df = dfMaster.loc[(dfMaster['SOC_CODE']/10000).between(SOC_Start, SOC_End+1, inclusive='both')] #Figure out why +1 is needed
+    def __init__(self, dfM, title="Unnamed Group", SOC_Start=0, SOC_End=53+1, collar="none"):
+        self.df = dfM.loc[(dfM['SOC_CODE']/10000).between(SOC_Start, SOC_End+1, inclusive='both')] #Figure out why +1 is needed
+        if collar == 'white':
+            self.df = (self.df.loc[(self.df['SOC_CODE']%10000).between(0, 2299, inclusive='both')])
+            self.title = "White Collar"
+        elif collar == 'blue':
+            self.df = (self.df.loc[(self.df['SOC_CODE']%10000).between(3300, 9999, inclusive='both')])
+            self.title = "Blue Collar"
         self.title = title
-        self.SOC_Start = SOC_Start
-        self.SOC_End = SOC_End
+
     
     def weightedMeanProb(self):
         return (self.df['Probability']*self.df['TOT_EMP']).sum() / self.df['TOT_EMP'].sum()
@@ -15,8 +20,8 @@ class Group():
     
     def getTitle(self):
         return self.title
-    def getSOC_Range(self):
-        return (self.SOC_Start, self.SOC_End)
+    # def getSOC_Range(self):
+    #     return (self.SOC_Start, self.SOC_End)
     def getDF(self):
         return self.df
     
@@ -34,7 +39,7 @@ def aggregate(df, level):
                 else:
                     start = end = line[:line.index(' ')]
                 title = line[line.index(' ')+1:] #Group Title
-                groups.append(Group(df, title, int(start), int(end)))
+                groups.append(Group(df, title=title, SOC_Start=int(start), SOC_End=int(end)))
             else:
                 return groups
         elif line == level.upper() or line == level.upper()+':\n':
@@ -49,3 +54,8 @@ def weightedMeanProbs(df, ordered):
 
 def probability(df, thresheholdProb):
     return df.loc[df['Probability'] >= thresheholdProb]
+
+def sortCollar(df):
+    white = Group(df, title="White Collar Occupations", collar='white')
+    blue = Group(df, title="Blue Collar Occupations", collar='blue')
+    return [white, blue]

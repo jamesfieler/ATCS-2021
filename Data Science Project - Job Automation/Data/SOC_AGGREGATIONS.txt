@@ -2,6 +2,7 @@ Aggregation Grouping Suggested by U.S.Bureau of Labor Statistics
 (SOC_CODE Structure.pdf)
 Note: Leave last 2 line EMPTY
 
+
 HIGH:
 11-29 Management, Business, Science, and Arts Occupations
 31-39 Service Occupations
