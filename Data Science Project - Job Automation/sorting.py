@@ -2,7 +2,7 @@ import pandas as pd
 
 class Group(): 
     def __init__(self, dfM, title="Unnamed Group", SOC_Start=0, SOC_End=53+1, collar="none"):
-        self.df = dfM.loc[(dfM['SOC_CODE']/10000).between(SOC_Start, SOC_End+1, inclusive='both')] #Figure out why +1 is needed
+        self.df = dfM.loc[(dfM['SOC_CODE']/10000).between(SOC_Start, SOC_End+1, inclusive='both')]
         if collar == 'white':
             self.df = (self.df.loc[(self.df['SOC_CODE']%10000).between(0, 2299, inclusive='both')])
             self.title = "White Collar"

@@ -107,6 +107,8 @@ bwCollar = sorting.sortCollar(dfM) #white, blue
 bwCollarProbs = [bwCollar[0].weightedMeanProb(), bwCollar[1].weightedMeanProb()]
 bwCollarTitles = [bwCollar[0].getTitle(), bwCollar[1].getTitle()]
 
+print(bwCollarProbs)
+
 plt.title("Blue vs White Collar Automation Probability")
 plt.bar(bwCollarTitles, bwCollarProbs)
 plt.xlabel("White vs Blue Collar")
