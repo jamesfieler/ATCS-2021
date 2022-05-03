@@ -25,24 +25,25 @@ class ConnectFour:
                 print(self.board[row][col], end="\t")
         print("\n")
 
-    def validMove(self, row, col):
-        if self.board[row][col] == '-' and row <= len(self.board) and col <= len(self.board):
-            return True
-        return False
+    def nextRow(self, col):
+        next = None
+        if col > 0 and col < len(self.board[0]):
+            for i in range(len(self.board)):
+                if self.board[i][col] == '-':
+                    next = i
+        return next
 
-    def userMove(self, player):
-        row = int(input("Enter Row: "))
+    def takeMove(self, player):
         col = int(input("Enter Column: "))
-        if self.validMove(row, col) == False:
-            while self.validMove(row, col) == False:
-                print("Invalid - Enter New Move.")
-                row = int(input("Enter Row: "))
-                col = int(input("Enter Column: "))
-        self.board[row][col] = player
-    
+        if self.nextRow(col) == None:
+            while self.nextRow(col) == None:
+                col = int(input("Invalid. Enter New Column: "))
+        self.board[self.nextRow(col)][col] = player
+
 
 
 c4 = ConnectFour()
-c4.printBoard()
-c4.userMove('X')
+for i in range(42):
+    c4.printBoard()
+    c4.takeMove('X')
 c4.printBoard()
